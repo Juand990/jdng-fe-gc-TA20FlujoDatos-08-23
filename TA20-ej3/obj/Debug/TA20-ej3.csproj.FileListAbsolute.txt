@@ -1,0 +1,7 @@
+E:\VS Proyectos\TA20-ej3\bin\Debug\TA20-ej3.exe.config
+E:\VS Proyectos\TA20-ej3\bin\Debug\TA20-ej3.exe
+E:\VS Proyectos\TA20-ej3\bin\Debug\TA20-ej3.pdb
+E:\VS Proyectos\TA20-ej3\obj\Debug\TA20-ej3.csproj.AssemblyReference.cache
+E:\VS Proyectos\TA20-ej3\obj\Debug\TA20-ej3.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\TA20-ej3\obj\Debug\TA20-ej3.exe
+E:\VS Proyectos\TA20-ej3\obj\Debug\TA20-ej3.pdb
